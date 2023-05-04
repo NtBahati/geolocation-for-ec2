@@ -1,1 +1,1 @@
-# geolocation-for-aws
+# geolocation-for-ec2
